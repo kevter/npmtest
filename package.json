@@ -1,7 +1,6 @@
 {
-  "name": "npmtest",
+  "name": "@kevter/npmtest",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "repository": {
     "type": "git",
@@ -12,5 +11,6 @@
   "bugs": {
     "url": "https://github.com/kevter/npmtest/issues"
   },
-  "homepage": "https://github.com/kevter/npmtest#readme"
+  "homepage": "https://github.com/kevter/npmtest#readme",
+  "description": ""
 }
